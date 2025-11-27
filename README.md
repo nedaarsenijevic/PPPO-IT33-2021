@@ -1,2 +1,1 @@
-#Projekat iz predmeta Principi prezentacije prepoznavanja oblika.
-##Tema- detekcija oblika broda
+Projekat iz predmeta principi prezentacije prepoznavanja oblika
